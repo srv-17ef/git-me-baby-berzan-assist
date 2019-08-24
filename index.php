@@ -1,3 +1,13 @@
 <?php
-echo 'php säger hej igen kl  ';
-echo time();
+// öppnar php-taggen
+
+// enradskommentar
+/*
+ * Kommentar på flera rader
+ * skrivs likt detta
+ */
+
+// stäng php enbart när det behövs
+?>
+
+
