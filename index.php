@@ -8,10 +8,14 @@
     <title>Document</title>
 </head>
 <body>
+<h1>
 <?php
-
-// stängningstaggen klagar inte
+echo 'Jag existerar ';
+$var1 = 'enbart på servern ';
+$var2 = 'på webbsidan';
+echo $var2;
 ?>
+</h1>
 </body>
 </html>
 
