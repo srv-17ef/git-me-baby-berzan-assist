@@ -14,6 +14,7 @@ echo 'Jag existerar ';
 $var1 = 'enbart på servern ';
 $var2 = 'på webbsidan';
 echo $var2;
+var_dump($var1);
 ?>
 </h1>
 </body>
